@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Tue Jun 11 21:55:51 CST 2013
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=true
+jarname=C\:\\Users\\andong\\Desktop\\DataMining_fat.jar
+manifest.mergeall=true
+manifest.mainclass=com.cnsoftbei.main.Main
+manifest.file=<createnew>
+jarname.isextern=true
+onejar.expand=
+excludes=
+includes=
